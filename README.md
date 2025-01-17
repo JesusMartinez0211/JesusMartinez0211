@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpseXQ2ZzF5eDh6YXR1dTcwc2Rsa3NleGh5YXdhbzF6YmRmbTU4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="100" alt="saludo">
+ </p>
+
 # 👋 ¡Hola! Soy **Jesus Daniel Martinez Ortiz**  
+
 🎓 **Estudiante de Ingeniería de Sistemas** | 💻 **Desarrollador en Formación** | 🚀 **Apasionado por la Innovación Tecnológica**  
+
 
 ---
 
