@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusMartinez0211&theme=radical" alt="Racha de contribuciones">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusMartinez0211&theme=radical" alt="Racha de contribuciones" />
 </p>
 
 <p align="center">
