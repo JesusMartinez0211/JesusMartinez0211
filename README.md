@@ -7,9 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JesusMartinez0211&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </p>
 
----
-
 ## 🛠️ Sobre Mí  
+
 🎓 Actualmente cursando el **noveno semestre** en la **Universidad de Investigación y Desarrollo (UDI)**.  
 💻 Experiencia en proyectos de desarrollo de software, abarcando **análisis**, **diseño**, **pruebas** e **implementación**.  
 🌟 Me interesan áreas como **Ciberseguridad**, **Computación en la Nube**, **Desarrollo de Aplicaciones Móviles** y **Desarrollo Web**.  
@@ -17,17 +16,15 @@
 ---
 
 ## 🚀 **Habilidades Técnicas**  
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-<color>-blue?style=flat&logo=html5" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-<color>-yellow?style=flat&logo=javascript" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/CSS-<color>-blue?style=flat&logo=css3" alt="CSS Badge"/>
 </p>
+- **Lenguajes de Programación:** `HTML`, `JavaScript`, `CSS`.  
+- **Bases de Datos:** `MySQL`, `PostgreSQL`, `MongoDB`.  
+- **Herramientas y Tecnologías:** `Git`, `Docker`, `Kubernetes`.  
+- **Certificaciones:** Certificados de **Google** en Desarrollo y Tecnologías Digitales.  
 
 ---
 
@@ -50,6 +47,15 @@
 
 ---
 
+## 🧠 **Tecnologías en las que me especializo**  
+<p align="center">
+  <img src="https://github.com/JesusMartinez0211/JesusMartinez0211/blob/main/assets/progress-bars/js.png" alt="JavaScript Progress" width="200" height="50"/>
+  <img src="https://github.com/JesusMartinez0211/JesusMartinez0211/blob/main/assets/progress-bars/css.png" alt="CSS Progress" width="200" height="50"/>
+  <img src="https://github.com/JesusMartinez0211/JesusMartinez0211/blob/main/assets/progress-bars/html.png" alt="HTML Progress" width="200" height="50"/>
+</p>
+
+---
+
 ## 🌐 **Idiomas**  
 - 🇪🇸 Español (Nativo)  
 - 🇺🇸 Inglés (Avanzado)  
@@ -63,14 +69,25 @@
 ---
 
 ## 📩 **¡Hablemos!**  
-<p>
-  <a href="mailto:jesusdanielmartinez05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jesus-martinez-547531126"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://portafolio-web-jesus.netlify.app"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=netlify&logoColor=white"></a>
-</p>
+📧 **Correo:** [jesusdanielmartinez05@gmail.com](mailto:jesusdanielmartinez05@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/jesusdaniel](www.linkedin.com/in/jesus-martinez-547531126)  
+🌐 **Portafolio:** [mi-portafolio.com](https://portafolio-web-jesus.netlify.app)  
 
 ---
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusMartinez0211&theme=radical" alt="Racha de contribuciones">
+</p>
+
+<p align="center">
   ⭐ **Si encuentras algo útil en mis repositorios, no dudes en dejar una estrella. ¡Gracias por visitar mi perfil!** ⭐
 </p>
+
+---
+
+# Animación de Tecnología 💻
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/f6cfb106271582e07fcd2d13e4acc4d234e9a7db9da1df65730936baf0f9fff1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4a657375734d617274696e657a30323131267468656d653d7261646963616c" alt="Logo de GitHub con animación" />
+</div>
+
