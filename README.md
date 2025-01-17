@@ -72,9 +72,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesusMartinez0211&theme=radical" alt="Racha de contribuciones" />
-</p>
-
-<p align="center">
   ⭐ **Si encuentras algo útil en mis repositorios, no dudes en dejar una estrella. ¡Gracias por visitar mi perfil!** ⭐
 </p>
