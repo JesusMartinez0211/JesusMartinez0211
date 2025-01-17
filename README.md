@@ -72,5 +72,5 @@
 ---
 
 <p align="center">
-  ⭐ **Si encuentras algo útil en mis repositorios, no dudes en dejar una estrella. ¡Gracias por visitar mi perfil!** ⭐
+  ⭐ ** Si encuentras algo útil en mis repositorios, no dudes en dejar una estrella. ¡Gracias por visitar mi perfil! ** ⭐
 </p>
