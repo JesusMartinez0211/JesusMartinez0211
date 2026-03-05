@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpseXQ2ZzF5eDh6YXR1dTcwc2Rsa3NleGh5YXdhbzF6YmRmbTU4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="100" alt="saludo">
  </p>
 
-# 👋 ¡Hola! Soy **Jesús Martínez**
+ # 👋 ¡Hola! Soy **Jesús Martínez**
 
 🎓 **Ingeniero de Sistemas** | 🔐 **Especialización en Seguridad Informática** | 💻 **Desarrollador & Entusiasta de Ciberseguridad**
 
@@ -103,11 +103,4 @@ Desarrollar soluciones tecnológicas seguras y contribuir a la **protección de 
   <a href="mailto:jesusdanielmartinez05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jesus-martinez-547531126"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://portafolio-web-jesus.netlify.app"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=netlify&logoColor=white"></a>
-</p>or=white"></a>
-</p>
-
----
-
-<p align="center">
-  ⭐ Si encuentras algo útil en mis repositorios, no dudes en dejar una estrella. ¡Gracias por visitar mi perfil! ⭐
 </p>
